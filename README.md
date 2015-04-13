@@ -46,3 +46,5 @@ Couple of notes:
   - https://developers.facebook.com/resources/facebook-android-sdk-current.zip
   - The working example **HelloFacebookSample** can be located at:
 path\Downloads\facebook-android-sdk-4.0.1.zip\facebook-android-sdk-4.0.1\samples\HelloFacebookSample 
+
+![facebook](https://cloud.githubusercontent.com/assets/7454787/7123631/87e37146-e1f1-11e4-9187-20c98f31e974.PNG)
